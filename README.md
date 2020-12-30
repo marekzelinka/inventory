@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Classroom statistics</h3>
+  <h1>Inventory</h3>
   <p>
-    A web app that allows you to enter the grades of your students (which could be any number between 0 and 20) and see statistics about the grades
+    Managing your inverntory just become a lot easier!
     <br />
-    <a href="https://classroom-statistics.vercel.app/"><strong>Website »</strong></a>
+    <a href="https://inventory.vercel.app/"><strong>Website »</strong></a>
   </p>
 </div>
 
@@ -45,16 +45,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 Follow the following steps to get development environment running.
 
-1. Clone 'classroom-statistics' repository from GitHub
+1. Clone 'inventory' repository from GitHub
 
    ```sh
-   git clone https://github.com/marekzelinka/classroom-statistics.git
+   git clone https://github.com/marekzelinka/inventory.git
    ```
 
 1. Install node modules
 
    ```sh
-   cd classroom-statistics
+   cd inventory
    npm install
    ```
 

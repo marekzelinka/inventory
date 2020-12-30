@@ -1,4 +1,4 @@
-class Inventory {
+export class Inventory {
   /**
    * @param {string[]} items
    */
@@ -18,10 +18,7 @@ class Inventory {
     return this.items.length;
   }
 
-  exists(item) {
-    return this.items.includes(item);
+  exists(name) {
+    return this.items.find((item) => item.name === name);
   }
 }
-
-// Do not modify this
-export default Inventory;
