@@ -3,7 +3,7 @@
   <p>
     Managing your inverntory just become a lot easier!
     <br />
-    <a href="https://inventory.vercel.app/"><strong>Website »</strong></a>
+    <a href="https://inventory-ten.vercel.app/"><strong>Website »</strong></a>
   </p>
 </div>
 
